@@ -3,4 +3,4 @@ VDPAU_DRIVER=va_gl
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
-NVM_NODEJS_ORG_MIRROR=https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/
+NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/mirrors/node

@@ -48,7 +48,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-/home/undefined/.config/scripts/dual.sh &
+/home/undefined/.config/scripts/dualhead.sh &
 /home/undefined/.config/scripts/bg.sh &
 compton -b --config /home/undefined/.config/compton/compton.conf &
 fcitx -d &
